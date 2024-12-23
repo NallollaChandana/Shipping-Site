@@ -1,0 +1,260 @@
+.A {
+    width: 27%;
+}
+
+form {
+    width: 30%;
+    gap: 20px;
+}
+
+.vl {
+    border-left: 0.5px solid #d3d3d3;
+    height: 370px;
+}
+
+.Today {
+    /* border: 2px solid blue; */
+    width: 75%;
+    margin-left: 105px;
+
+}
+
+.L {
+    gap: 55px;
+    margin-left: 70px;
+    /* border: 2px solid violet; */
+    width: 90%;
+    margin-left: 95px;
+}
+
+.flash {
+    /* border: 2px solid red; */
+    margin-left: 105px;
+}
+
+.cir {
+    /* border: 2px solid red; */
+    width: 6%;
+    height: 30px;
+    margin-left: 290px;
+}
+
+
+.Video-game {
+    background-color: #F5F5F5;
+    width: 16%;
+    height: 230px;
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    /* margin-left: 55px; */
+
+}
+
+.G {
+    /* border: 2px solid blueviolet; */
+    margin-left: 33px;
+    margin-bottom: 20px;
+}
+
+.Whole {
+    height: 80px;
+    /* border: 5px solid red; */
+    padding-left: 9px;
+    padding-top: 7px;
+}
+
+.B {
+    height: 30px;
+    width: 25%;
+    padding: auto;
+    border-radius: 5px;
+}
+
+.keyboard {
+    background-color: #F5F5F5;
+    width: 17%;
+    height: 230px;
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    /* margin-left: 55px; */
+}
+
+.keyboard img {
+    /* border: 2px solid blueviolet; */
+    margin-left: 33px;
+    margin-bottom: 15px;
+}
+
+.Cart {
+    text-align: center;
+    width: 100%;
+}
+
+.Tv {
+    background-color: #F5F5F5;
+    width: 16%;
+    height: 230px;
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+.three {
+    margin-top: 40px;
+    width: 140%;
+    /* border: 2px solid red; */
+
+}
+
+.Chair {
+    background-color: #F5F5F5;
+    width: 15%;
+    height: 230px;
+    /* border: 2px solid red; */
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+.four {
+    margin-top: 40px;
+    width: 140%;
+    /* border: 2px solid red; */
+}
+
+.Product {
+    /* border: 2px solid aquamarine; */
+    width: 15%;
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 570px;
+}
+
+.P {
+    border-radius: 10px;
+}
+
+.Category {
+    width: 81%;
+    margin-left: 100px;
+    /* border: 2px solid yellow; */
+}
+
+.view {
+    width: 9%;
+    border-radius: 10px;
+}
+
+.set {
+    border: 1px solid #0000004D;
+    width: 9%;
+    height: 110px;
+    /* border: 2px solid yellow; */
+    padding: 19px 35px;
+    margin-bottom: 30px;
+}
+
+.watch {
+    /* border: 2px solid aquamarine; */
+    width: 157%;
+
+}
+
+.camera {
+    border: 1px solid #0000004D;
+    background-color: black;
+    color: white;
+    width: 9%;
+    height: 110px;
+    padding: 19px 35px;
+}
+
+.JBL {
+    /* border: 2px solid aquamarine; */
+    padding-left: 100px;
+}
+
+.group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 45px;
+    width: 75%;
+    height: 900px;
+    /* border: 2px solid aquamarine; */
+    margin: auto;
+}
+
+.pro {
+    border-radius: 10px;
+}
+
+.view-pro {
+    /* border: 2px solid aquamarine; */
+    width: 15%;
+    height: 50px;
+    margin-top: 65px;
+    margin-left: 600px;
+}
+
+.g-1 {
+    background-color: #F5F5F5;
+    /* border: 2px solid yellowgreen; */
+    width: 20%;
+    height: 270px;
+    margin-top: 50px;
+}
+
+.part-two {
+    /* border: 2px solid green; */
+    padding-left: 20px;
+}
+
+.part-dog {
+    /* border: 2px solid green; */
+    margin-left: 55px;
+    padding-bottom: 20px;
+    width: 49%;
+
+}
+
+.part-cam {
+    /* border: 2px solid green; */
+    margin-left: 35px;
+
+}
+
+.kid-car {
+    /* border: 2px solid green; */
+    margin-top: 75px;
+}
+
+.v-game {
+    /* border: 2px solid green; */
+    margin-top: 60px;
+}
+
+.main {
+    /* border: 2px solid green; */
+    width: 85%;
+    margin-left: 99px;
+    height: 600px;
+}
+
+.other {
+    /* border: 5px solid palevioletred; */
+    margin-top: 20px;
+    height: 300px;
+}
+.services{
+    /* border: 5px solid palevioletred; */
+    margin-top: 60px;
+    margin-left: 200px;
+}
+.in{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.Last{
+    height: 295px;
+}
